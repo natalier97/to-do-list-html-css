@@ -1,0 +1,41 @@
+body {
+  background-color: azure;
+  background-image: url("https://www.sheknows.com/wp-content/uploads/2018/08/dgldbejjyofmcsfvkfd9.jpeg?w=1920");
+}
+h1 {
+  background-color: lightblue;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 50px;
+  font-size: 50px;
+  margin-bottom: 70px;
+}
+form {
+  text-align: center;
+  
+  margin-right: 10px;
+  display: inline;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+    margin-left: -200px;
+    font-size: 20px;
+    color: rgb(115, 186, 209);
+    font-weight: bold;
+}
+
+.completed {
+  text-decoration: line-through;
+}
