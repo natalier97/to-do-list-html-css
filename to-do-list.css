@@ -38,4 +38,6 @@ form {
 
 .completed {
   text-decoration: line-through;
+  text-decoration-color: pink;
 }
+
